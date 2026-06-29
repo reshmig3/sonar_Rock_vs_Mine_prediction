@@ -1,4 +1,4 @@
-# mine_prediction using Machine Learning
+# sonar rock vs mine rediction using Machine Learning
 
 This project predicts whether an underwater object is a mine or a rock using sonar signal data.
 
